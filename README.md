@@ -30,4 +30,4 @@ Respond to contain, neutralize, and analyze security incidents; implement improv
 
 Recover affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
 
-# Please see NIST-CSF-Incident-report-analyst.pdf for my work on this activity.
+# Please see NIST-CSF-Incident-report-analyst.pdf in the files section above to view my work.
