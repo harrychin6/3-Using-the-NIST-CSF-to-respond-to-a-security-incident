@@ -29,3 +29,5 @@ Detect potential security incidents and improve monitoring capabilities to incre
 Respond to contain, neutralize, and analyze security incidents; implement improvements to the security process. 
 
 Recover affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
+
+# Please see NIST-CSF-Incident-report-analyst.pdf for my work on this activity.
